@@ -1,0 +1,44 @@
+{
+  "examens": [
+    {
+      "epreuve": "Epreuves Bts",
+      "coeff": "2",
+      "forme": "ecrit"
+    },
+    {
+      "epreuve": "culture generale",
+      "coeff": "3",
+      "forme": "orale"
+    },
+    {
+      "epreuve": "Langue vivante",
+      "coeff": "4",
+      "forme": "ecrit"
+    },
+    {
+      "epreuve": "epreuve Angalis bussiness",
+      "coeff": "6",
+      "forme": "orale"
+    },
+    {
+      "epreuve": "epreuve Angalis bussiness",
+      "coeff": "7",
+      "forme": "ecrit"
+    }
+
+  ],
+  "categorie": [
+    {
+      "description": "Lorem lorem lorem1"
+    },
+    {
+      "description": "Lorem lorem lorem2"
+    },
+    {
+      "description": "Lorem lorem lorem3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

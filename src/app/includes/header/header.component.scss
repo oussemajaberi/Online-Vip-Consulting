@@ -1,0 +1,42 @@
+.headerr
+{
+  background-color:#0d2239 ;
+  color:white;
+  padding:20px 50px;
+  display:flex;
+  justify-content: space-around;
+}
+.headerr a
+{
+  text-decoration: none;
+  color:white;
+}
+.sou_menu
+{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  color:#0d2239;
+  border-bottom: 1px solid #989898;
+}
+.white-icon {
+  color: white;
+}
+/* Note: If you're using an SVG icon, you should make the class target the `<svg>` element */
+.white-icon svg {
+  fill: white;
+}
+
+.sous_menu_content
+{
+  display: flex;
+  width:60%;
+  justify-content: space-between;
+  padding:7px 0 ;
+}
+.sous_menu_content div
+{
+  width:100%;
+  display: flex;
+  justify-content: center;
+}
